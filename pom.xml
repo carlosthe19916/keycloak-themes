@@ -3,23 +3,16 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.sistcoop</groupId>
     <artifactId>openfact-keycloak-themes</artifactId>
-    <version>1.0.RC14</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Openfact Keycloak</name>
     <description>Openfact Keycloak Files</description>
 
     <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <version.wildfly.swarm>2017.5.0</version.wildfly.swarm>
-
-        <maven.compiler.target>1.8</maven.compiler.target>
-        <maven.compiler.source>1.8</maven.compiler.source>
-
         <!-- Maven Plugins -->
         <version.maven-compiler-plugin>3.6.1</version.maven-compiler-plugin>
         <version.maven-failsafe-plugin>2.19.1</version.maven-failsafe-plugin>
-        <version.maven-war-plugin>2.6</version.maven-war-plugin>
         <version.maven-jar-plugin>3.0.2</version.maven-jar-plugin>
         <version.maven-source-plugin>3.0.1</version.maven-source-plugin>
         <version.maven-deploy-plugin>2.8.2</version.maven-deploy-plugin>
