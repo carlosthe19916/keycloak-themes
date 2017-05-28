@@ -1,6 +1,6 @@
 {
     "themes": [{
         "name" : "openfact",
-        "types": [ "welcome" ]
+        "types": [ "admin", "account", "login", "welcome" ]
     }]
 }
