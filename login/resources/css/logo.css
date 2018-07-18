@@ -16,17 +16,7 @@
  */
 
 #kc-logo-wrapper {
-    background: url("../img/openfact-logo.png") no-repeat top right;
+    background: url("../img/red-hat-logo.png") no-repeat top right;
     height: 45px;
     width: 200px;
-}
-
-.login-pf body {
-    background: #0f0f0f url("../img/background.jpg") top left no-repeat;
-    background-size: cover;
-}
-
-.kc-logo-text {
-    background-image: url(../img/openfact-logo-text.png) !important;
-    background-repeat: no-repeat;
 }
